@@ -1,0 +1,8 @@
+{
+  "name": "Remix EcoEat Quest - 잔반 제로 RPG",
+  "description": "급식 잔반 줄이기 AI 예측과 식판 스캔을 게임화한 에코 히어로 RPG \u0026 타이쿤 시뮬레이션",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
